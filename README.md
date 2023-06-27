@@ -32,13 +32,9 @@ Keep your Eyes on the Lane： Real-time Attention-guided Lane Detection
 
 Keep your Eyes on the Lane：Attention-guided Lane Detection
 
-### 3.DILane：利用高级和低级的特征
+### 3.DILane: Dynamic Instance-Aware Network for Lane Detection
 
-DILane: Dynamic Instance-Aware Network for Lane Detection
-
-### 4.**RoadSegNet：边缘设备上部署道路分割网络**
-
-RoadSegNet: a deep learning framework for autonomous urban road detection
+### 4.RoadSegNet: a deep learning framework for autonomous urban road detection
 
 ## 二、Segmentation based
 
@@ -86,9 +82,7 @@ Towards Lightweight Lane Detection by Optimizing Spatial Embedding
 
 Ultra Fast Structure-aware Deep Lane Detection
 
-### 4.**RoadSegNet：边缘设备上部署道路分割网络**
-
-RoadSegNet: a deep learning framework for autonomous urban road detection
+### 4.RoadSegNet: a deep learning framework for autonomous urban road detection
 
 ## 三、Based on the classification scheme
 
@@ -178,8 +172,6 @@ PersFormer：3D Lane Detection via Perspective Transformer and the OpenLane Benc
 Semi-Local 3D Lane Detection and Uncertainty estimation
 
 ### 2.**M2-3DLaneNet**
-
-多模态3D车道线检测
 
 M2-3DLaneNet: Multi-Modal 3D Lane Detection
 
