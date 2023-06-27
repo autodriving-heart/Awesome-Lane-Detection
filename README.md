@@ -4,9 +4,9 @@
 
 自动驾驶之心是国内首个自动驾驶开发者社区！这里有最全面有效的自动驾驶与AI学习路线（感知/定位/融合）和自动驾驶与AI公司内推机会！
 
-## 一、**基于检测方案** | Based on detection solutions
+## 一、Based on detection solutions
 
-### 1.**基于Anchor的车道线检测经典文章** | Classic Articles
+### 1.Anchor-based Classic Articles
 
 CLRNet：Cross Layer Refinement Network for Lane Detection
 
@@ -24,7 +24,7 @@ UFLD V1：Ultra Fast Structure-aware Deep Lane Detection
 
 UFLD v2：Ultra Fast Deep Lane Detection with Hybrid Anchor Driven Ordinal Classification
 
-### 2.**基于检测的方法汇总（一）** | Detection-based approach
+### 2. Detection-based approach
 
 CLRNet：Cross Layer Refinement Network for Lane Detection
 
@@ -40,11 +40,9 @@ DILane: Dynamic Instance-Aware Network for Lane Detection
 
 RoadSegNet: a deep learning framework for autonomous urban road detection
 
-## 二、**基于分割方案** | Based on segmentation scheme
+## 二、Segmentation based
 
-### 1.**基于语义分割的车道线检测经典文章**
-
-### Semantic segmentation-based lane line detection
+### 1. Semantic segmentation-based lane line detection
 
 EL-GAN：Embedding Loss Driven Generative Adversarial Networks for Lane Detection
 
@@ -60,7 +58,7 @@ RESA：Recurrent Feature-Shift Aggregator for Lane Detection
 
 SCNN：Spatial As Deep_ Spatial CNN for Traffic Scene Understanding
 
-### 2.**基于分割的方法汇总（一）** | Segmentation-based approach
+### 2. Segmentation-based approach
 
 ContinuityLearner：Geometric Continuity Feature Learning for Lane Segmentation
 
@@ -74,7 +72,7 @@ LaneAF：Robust Multi-Lane Detection with Affinity Fields
 
 Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks
 
-### 3.**基于分割的方法汇总（二）** | Segmentation-based approach
+### 3. Segmentation-based approach
 
 Multi-lane Detection Using Instance Segmentation and Attentive Voting
 
@@ -92,9 +90,8 @@ Ultra Fast Structure-aware Deep Lane Detection
 
 RoadSegNet: a deep learning framework for autonomous urban road detection
 
-## 三、**基于分类方案** | Based on the classification scheme
+## 三、Based on the classification scheme
 
-### 1.**基于分类的方法（一）** | Aggregate
 
 End-to-End Lane Marker Detection via Row-wise Classification
 
@@ -102,17 +99,17 @@ SwiftLane：Towards Fast and Efficient Lane Detection
 
 Ultra Fast Deep Lane Detection with Hybrid Anchor Driven Ordinal Classification
 
-## 四、**基于曲线预测方案** | Curve-based prediction schemes
+## 四、Curve-based prediction schemes
 
-### 1.**基于曲线拟合方法汇总（一）** | Based on curve fitting method
+### 1. Based on curve fitting method
 
 End-to-end Lane Detection through Differentiable Least-Squares Fitting
 
 Rethinking Efficient Lane Detection via Curve Modeling
 
-## 五、**基于关键点预测方案** | Key point based forecasting solution
+## 五、Key point based forecasting solution
 
-### 1.**基于关键点的车道线检测经典文章** | Classic Articles
+### 1. Classic Articles
 
 FOLOLane：Focus on Local：Detecting Lane Marker from Bottom Up via Key Point
 
@@ -122,15 +119,13 @@ End-to-end Lane Shape Prediction with Transformers
 
 PINet：Key Points Estimation and Point Instance Segmentation Approach for Lane Detection
 
-## 六、**基于双目** | Binocular based
+## 六、Stereo based
 
-### 1.**基于双目的方法（一）** | Binocular based
+### 1. Stereo based
 
 Real-Time Stereo Vision-Based Lane Detection system
 
-## 七、**基于序列** | Sequence-based
-
-### 1.**基于序列的方法汇总（一）** | Aggregate
+## 七、Sequence-based
 
 A Hybrid Spatial-temporal Sequence-to-one Neural Network Model for Lane Detection
 
@@ -142,45 +137,35 @@ Robust Lane Detection from Continuous Driving Scenes Using Deep Neural Networks
 
 VIL-100：A New Dataset and A Baseline Model for Video Instance Lane Detection
 
-## 八、**基于transformer**
-
-### 1.**基于transformer汇总** | Aggregate
+## 八、Transformer-based
 
 Laneformer：Object-aware Row-Column Transformers for Lane Detection
 
-## **九、多任务学习** | Multitasking Learning
+## Multitasking Learning
 
 ### 1.**多任务学习经典文章YOLOP** | YOLOP
 
 YOLOP：You Only Look Once for Panoptic Driving Perception
 
-## 十、**基于多传感器** | Multi-sensor based
-
-### 1.**基于多传感器汇总** | Aggregate
+## 十、Multi-sensor based
 
 Deep Multi-Sensor Lane Detection
 
 FusionLane：Multi-Sensor Fusion for Lane Marking
 
-## 十一、**基于LiDAR**
+## 十一 、LiDAR based
 
-### 1.**基于64线LiDAR反射率数据提取车道标线**
-
-### Extraction of lane markings based on 64-lane LiDAR reflectance data
+### 1.Extraction of lane markings based on 64-lane LiDAR reflectance data
 
 Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information
 
-## 十二、**其它** | Other
-
-### 1.**其它方法汇总** | Aggregate
+## 十二、Other
 
 Deep Multi-Sensor Lane Detection
 
 FusionLane：Multi-Sensor Fusion for Lane Marking
 
-## 十三、**3D车道线** | 3D lane lines
-
-### 1.**3D车道线汇总** | Aggregate
+## 十三、3D lane lines
 
 3D-LaneNet：End-to-End 3D Multiple Lane Detection
 
@@ -206,11 +191,11 @@ BEV-LaneDet: Fast Lane Detection on BEV Ground
 
 [[Code]](https://github.com/gigo-team/bev_lane_det)
 
-### 4.**OpenLanes数据集** | Dataset
+### 4.OpenLanes Dataset
 
 [[Dataset]](https://github.com/OpenPerceptionX/OpenLane)
 
-## 十四、**车道线识别问题汇总** | Summary of lane line identification issues
+## 十四、Summary of lane line identification issues
 
 **遮挡、磨损、不连续：解决方案包括拟合估计、结合地图等**
 
@@ -220,9 +205,9 @@ Occlusion, wear, discontinuity: solutions include fitting estimates, combining m
 
 Slender structure, need to capture detailed features: by segmentation model optimization and other methods
 
-## 十五、**代码大全** | Code
+## 十五、Code
 
-### 1.**车道线检测** | Lane Line Detection
+### 1. Lane Line Detection
 
 [[Ultra_Fast_Lane_Detection_TensorRT]](https://github.com/YZY-stack/Ultra_Fast_Lane_Detection_TensorRT)
 
@@ -246,7 +231,7 @@ Slender structure, need to capture detailed features: by segmentation model opti
 
 [[AMREL]](https://github.com/evenp/AMREL)
 
-### 2.**多任务方法** | Multitasking Methods
+### 2. Multitasking Methods
 
 [[YOLOP-TensorRT]](https://github.com/Stephenfang51/YOLOP-TensorRT)
 
